@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="sitename">
+	<test name="test">
+		<classes>
+			<class name="jenkintest.NewTest" />
+		</classes>
+	</test>
+</suite>
